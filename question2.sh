@@ -1,3 +1,6 @@
+#Rita Alsattah 10154610
+#Zina Alsabbagh 10161380
+
 #!/bin/bash
 
 
